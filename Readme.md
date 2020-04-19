@@ -1,12 +1,16 @@
-#test
+# test
+
 This is a simple test.
 
-#Dependencies
+# Dependencies
+
 All dependencies should be installed are as follow:
 *Visual studio
 
-#Compile
+# Compile
+
 VC++ 6.0
 
-#Run
+# Run
+
 Run it in the Visual studio 2015.
