@@ -1,7 +1,9 @@
-#include <studio.h>
+#include <iostream>
+using namespace std;
 int main()
 {
-     print("version 0.1");
-     print("hello world");
+     int x;
+     cin>>x;
+     cout<<x;
      return 0;
 }
